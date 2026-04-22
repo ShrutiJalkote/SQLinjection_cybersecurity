@@ -206,12 +206,21 @@ cursor.execute(query, (product_id,))
 ---
 
 ## 📸 Screenshots
+Vulnerable Mode:
 
 <img width="1920" height="1080" alt="Screenshot (392)" src="https://github.com/user-attachments/assets/ac0df7ed-7d75-44e4-82a2-2248782cd7f7" />
+
 <img width="1920" height="1080" alt="Screenshot (391)" src="https://github.com/user-attachments/assets/3d902318-5e07-409c-9b59-f89d7b17c57d" />
+
+
+Scure Mode:
+
 <img width="1920" height="1080" alt="Screenshot (393)" src="https://github.com/user-attachments/assets/5a1414bb-3ac8-4ed8-8573-bdac19fc6618" />
 <img width="1920" height="1080" alt="Screenshot (394)" src="https://github.com/user-attachments/assets/f1d791f0-dcb4-4a20-8faa-935fba20f387" />
 <img width="1920" height="1080" alt="Screenshot (395)" src="https://github.com/user-attachments/assets/055f758f-73a0-47a4-bcd6-33ca9138e50f" />
+
+Injection Logs:
+
 <img width="1920" height="1080" alt="Screenshot (396)" src="https://github.com/user-attachments/assets/3ee9d3ca-33fe-4fb0-81c8-35756293adb4" />
 
 
